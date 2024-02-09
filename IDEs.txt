@@ -1,0 +1,2 @@
+JDK e JVM são necessarios ter instalado no computador
+IDE - Ambiente de desenvolvimento integrado

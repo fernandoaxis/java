@@ -1,0 +1,4 @@
+Abstração -> Ter entendimento do mundo real e trazer para o mundo virtual
+Encapsulamento -> Encapsula um objeto e protege-lo de alteração  
+Hierarquia -> Ex: O aluno tem uma disciplina
+Modularização -> mecanismo que permite que um sistema de software seja dividido em partes que interagem entre si.

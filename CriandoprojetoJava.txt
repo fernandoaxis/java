@@ -1,0 +1,3 @@
+Para criar um projeto em java basta clicar em command pallete
+	selecionar spring initializer
+	pós isso selecionar o tipo

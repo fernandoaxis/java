@@ -1,0 +1,4 @@
+Instalar extensões
+
+	Extension Pack for Java
+	SpringBoot extension pack
